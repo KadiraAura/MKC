@@ -1,2 +1,0 @@
-# MKC
-Codedex Hackathon Project 
